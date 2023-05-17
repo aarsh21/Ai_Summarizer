@@ -27,7 +27,7 @@ const Hero = () => {
         <span className="orange_gradient">Open Ai GPT-4</span>
       </h1>
       <h2 className="desc">
-        Sumz is a clever tool that quickly condenses large texts
+        A text summarizer is a clever tool that quickly condenses large texts
         into concise summaries. It harnesses the power of AI to analyze and
         extract the most important information, giving you the essence of the
         content in a nutshell. Whether it's news articles, research papers, or

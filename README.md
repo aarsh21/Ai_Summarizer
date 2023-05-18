@@ -44,8 +44,10 @@ npm install
 ```
 4.add your rapid key in env
 
-VITE_RAPID_API_ARTICLE_KEY=''
+```
 
+VITE_RAPID_API_ARTICLE_KEY=''
+```
 5. Start the development server:
 
 

@@ -1,6 +1,6 @@
 # Article Digester
 
-Article Digester is a web application that allows users to summarize articles by simply providing the article URL. It utilizes Redux Toolkit, Vite with React, and Tailwind CSS to deliver a seamless and intuitive user experience.
+Article Digester is a web application that allows users to summarize articles by simply providing the summarized text from URL . It utilizes Redux Toolkit, Vite with React, and Tailwind CSS to deliver a seamless and intuitive user experience.
 
 
 

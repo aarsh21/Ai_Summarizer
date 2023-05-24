@@ -69,4 +69,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 Thank you for using Article Digester! If you have any questions or need further assistance, please don't hesitate to reach out.
 
-C
